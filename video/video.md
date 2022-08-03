@@ -6,10 +6,10 @@
 
 运行项目 会在本目录创建个B站的目录
 
-![image-20220803105250353](C:\Users\哆啦A梦没有梦想\AppData\Roaming\Typora\typora-user-images\image-20220803105250353.png)
+![image-20220803105250353](https://doraemon-1307638820.cos.ap-guangzhou.myqcloud.com/img/202208031113352.png)
 
 在项目前需要更改这几个目录名字，更改成为创建B站目录的地方就行
 
-![image-20220803105359922](C:\Users\哆啦A梦没有梦想\AppData\Roaming\Typora\typora-user-images\image-20220803105359922.png)
+![image-20220803105359922](https://doraemon-1307638820.cos.ap-guangzhou.myqcloud.com/img/202208031113329.png)
 
 如若下载大型视频，可能会加载很慢，需要等待很长时间
